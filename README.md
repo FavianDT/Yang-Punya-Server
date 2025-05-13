@@ -15,7 +15,7 @@ Untuk mengubah prefix, kamu bisa sesuaikan bagian ini di `bot = commands.Bot(...
 bot = commands.Bot(command_prefix="^", intents=intents)
 
 ---
-## 📌 Fitur Utama
+📌 Fitur Utama
 
 * Pesan **Welcome**, **Goodbye**, dan **Ban** dengan gambar & teks kustom.
 * Sistem pemberian role melalui:
@@ -30,9 +30,9 @@ bot = commands.Bot(command_prefix="^", intents=intents)
 
 ---
 
-## 🛠️ Perintah Bot
+🛠️ Perintah Bot
 
-### ⚙️ Konfigurasi Channel
+⚙️ Konfigurasi Channel
 
 | Perintah                     | Deskripsi                                                |
 | ---------------------------- | -------------------------------------------------------- |
@@ -47,7 +47,7 @@ bot = commands.Bot(command_prefix="^", intents=intents)
 
 ---
 
-### 👋 Welcome, Goodbye, dan Ban Message
+👋 Welcome, Goodbye, dan Ban Message
 
 | Perintah        | Deskripsi               |
 | --------------- | ----------------------- |
@@ -57,7 +57,7 @@ bot = commands.Bot(command_prefix="^", intents=intents)
 
 ---
 
-### 📜 Rules
+📜 Rules
 
 | Perintah                       | Deskripsi                                       |
 | ------------------------------ | ----------------------------------------------- |
@@ -67,7 +67,7 @@ bot = commands.Bot(command_prefix="^", intents=intents)
 
 ---
 
-### 📢 Pengumuman
+📢 Pengumuman
 
 | Perintah            | Deskripsi |                                                 |
 | ------------------- | --------- | ----------------------------------------------- |
@@ -75,7 +75,7 @@ bot = commands.Bot(command_prefix="^", intents=intents)
 
 ---
 
-### 🎮 Button Role
+🎮 Button Role
 
 | Perintah                                       | Deskripsi                                                     |
 | ---------------------------------------------- | ------------------------------------------------------------- |
@@ -83,7 +83,7 @@ bot = commands.Bot(command_prefix="^", intents=intents)
 
 ---
 
-### 🔁 Reaction Role
+🔁 Reaction Role
 
 | Perintah                                      | Deskripsi              |                                                            |
 | --------------------------------------------- | ---------------------- | ---------------------------------------------------------- |
@@ -91,7 +91,7 @@ bot = commands.Bot(command_prefix="^", intents=intents)
 
 ---
 
-### 📩 Dropdown Role
+📩 Dropdown Role
 
 | Perintah                                   | Deskripsi                                   |
 | ------------------------------------------ | ------------------------------------------- |
