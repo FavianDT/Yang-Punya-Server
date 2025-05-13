@@ -1,0 +1,17 @@
+{
+    "welcome_channel": null,
+    "goodbye_channel": null,
+    "ban_channel": null,
+    "role_channel": null
+    "welcome_message": "Selamat datang {member}!",
+    "goodbye_message": "{member} telah keluar.",
+    "ban_message": "{member} telah dibanned.",
+    "welcome_image": null,
+    "goodbye_image": null,
+    "ban_image": null,
+    "announce_channel": null,
+    "control_channel": null,
+    "reaction_roles": {},
+    "dropdown_roles": {},
+    "button_roles": [],
+}
