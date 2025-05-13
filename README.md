@@ -34,7 +34,4 @@ bot = commands.Bot(command_prefix="^", intents=intents)
 | `^announce`    | Admin dan harus dijalankan di channel kontrol     |
 | `^set_roles`   | Admin atau Staff (berdasarkan role ID dalam kode) |
 
-
----
-
-Jika kamu menyimpannya sebagai `README.md`, GitHub akan otomatis menampilkannya di halaman utama repositori. Perlu bantuan untuk mengatur repositori GitHub atau deploy ke hosting (seperti Replit, Railway, dsb)?
+Harus menggunakan hosting seperti (Replit, Railway, dsb)
